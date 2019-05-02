@@ -4,7 +4,6 @@ blue
 orange
 red
 white
-yellow
 pink
 brown
 purple
